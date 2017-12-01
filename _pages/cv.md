@@ -11,12 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+*
+* Educación Secundaria: Instituto Artístico de Estudios Secundarios de la Universidad de Chile *ISUCH*, Liceo Augusto D'Halmar.
+* Interpretación Artística, Mención Guitarra Clásica , Facultad de Artes, Universidad de Chile. 2006-2007
+* Egresado Ingeniería Civil Eléctrica, FCFM, Universidad de Chile. 2015
+* Magister en Ingeniería y Ciencias, Mención Eléctrica. FCFM, Universidad de Chile, 2018 (en proceso)
 
 Work experience
 ======
+
+* Verano 2013: Práctica Profesional N°1
+  * Laboratorio de Robótica DIE, FCFM, U. de Chile
+  Se desarrollaron brazos antropomórficos del Robot de servicio [Bender](http://robotica-uchile.amtc.cl/bender-index.html)) en fibra de carbono y aluminio.
+  
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
