@@ -8,4 +8,4 @@ Used in Duckiebot for motors and others sensors communication and control.
 
 For more information please refer to [Duckietown Arduino](https://github.com/Duckietown-Chile/duckietown_arduino)
 
-![duckiebot-shield](https://github.com/Duckietown-Chile/duckietown_arduino/blob/master/img/DuckiebotShield.png)
+![shield](growolff.github.io/images/DuckiebotShield.png)

@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Versión en [pdf](../files/cv_grow_dec2017.pdf)
+
 Educación
 ======
 * Educación Secundaria: Instituto Artístico de Estudios Secundarios de la Universidad de Chile *ISUCH*, Liceo Augusto D'Halmar.

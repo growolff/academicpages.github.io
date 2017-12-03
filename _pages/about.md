@@ -15,7 +15,7 @@ I've also worked in a few projects in the robotics laboratory [AMTC-DIE Robotics
 I'm one of the founders of the University of Chile Robotics Community ([Comunidad de Robótica](https://www.facebook.com/ComunidadRoboticaUChile/)), one of the most important and entertaining projects I have ever participated. Our main objective is to make diffusion of the projects we work on and to bring students to robotics, in a funny and relaxed way. Among other projects, we implemented our own version of [MITs Duckietown](http://duckietown.org/), called [Duckietown Chile](http://duckietown.cl/) obtaining very good results in all areas we were focused on.
 
 I like teaching robotics, 3D modelling and printing. My hobbies are playing music, cyclism, reading and photograpy. Also, nowadays I'm very into ducks.
-I ride an old road bike called 'Anacleto'. Its mainly made of steel and its strong and trustworthy. It takes me anyway I want to.
+I ride an old road bike called 'Anacleto'. Its mainly made of steel and its strong and trustworthy. It takes me anyway I want to. I also into the fixed gear.
 
 ### Contact me
 
