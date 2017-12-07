@@ -20,3 +20,5 @@ I ride an old road bike called 'Anacleto'. Its mainly made of steel and its stro
 ### Contact me
 
 You can find me on [growolff@gmail.com](growolff@gmail.com) mainly. If you don't like e-mail, there are a few links to my public life in the left panel.
+
+I've also made some 3D models for different projects. You can view my [Grabcad profile](https://grabcad.com/gonzalo.olave.wolff-1) to take a look on them.
