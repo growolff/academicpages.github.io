@@ -1,6 +1,6 @@
 ---
 title: "Usain Bot v1 - Fastest speeder"
-excerpt: "An open hardware racer robot fully designed, builted and programmed in Fablab U. de Chile<br/><img src='/images/usain/bot1.png'>"
+excerpt: "An open hardware racer robot fully designed, builted and programmed in Fablab U. de Chile<br/><img src='/images/usain/bot1.JPG'>"
 collection: portfolio
 ---
 
