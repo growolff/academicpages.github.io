@@ -11,6 +11,13 @@ redirect_from:
 
 Versión en [pdf](../files/cv_grow_dec2017.pdf)
 
+Resumen
+======
+Tesista de Magíster en Ingeniería Civil Eléctrica con intereses en la investigación y desarrollo de nuevas tecnologías aplicadas a la Robótica y sistemas autónomos. Con diversas capacidades en torno a la resolución de problemas aplicados a la ingeniería eléctrica, ciencias de la computación y otras áreas relacionadas. 
+Cuento con vasta experiencia realizando clases de robótica, arduino e IoT.
+Creo firmemente que la sinceridad y honestidad son necesarios para formar cualquier tipo de relación.
+
+
 Educación
 ======
 * Educación Secundaria: Instituto Artístico de Estudios Secundarios de la Universidad de Chile *ISUCH*, Liceo Augusto D'Halmar.
@@ -43,12 +50,17 @@ Experiencia Laboral
 * 2017 al presente: **Chief Operations Officer**, [Duckietown Chile](http://duckietown.cl/)
   * COO de la empresa ficticia Duckietown Enginerring Chile, utilzada para implementar el curso EI2001 - Taller de Proyecto: *Duckietown: Desarrollando vehículos autónomos*.
 
+* 2018 al presente: **Coordinador de vinculación y actividades**, [Fablab U. de Chile](http://fablab.uchile.cl)
+  * Como parte del equipo del Fablab U. de Chile, presto ayuda desde mi experiencia como ingeniero eléctrico y coordino las actividades de difusión y vinculación del Fablab.
+  * Desarrollo de proyectos con Raspberry Pi, Arduino y otras plataformas de desarrollo electrónico.
+  * Dicto los talleres de Introducción a Arduino, Fabricación de PCBs e Introducción al Internet de las cosas.
+  * En octubre de 2018, junto a la Rama Estudiantil de la IEEE y la [Comunidad de Robótica UChile](https://www.facebook.com/ComunidadRoboticaUChile) organizamos la priemra competencia de robótica de la Universidad de Chile, Beauchef Robotics Challenge, convocando a más de 20 estudiantes de la FCFM para que desarrollaran sus robots y participaran de la competencia. Los tres primeros lugares fueron becados para participar en la competencia de robótica de la UTFSM.
+
 Algunas habilidades
 ======
 * Softwares
-    * Solidworks, Inventor, SolidEdge
-    * Eagle, LTSpice
-    * Illustrator, Inkscape
+    * CAD 3D: Fusión 360, Solidworks, Inventor
+    * CAD 2D: Eagle PCB, Illustrator, Inkscape
     * ROS, Gazebo, Stage 2D.
 * Lenguajes de programación
   * C, C++, Python.
