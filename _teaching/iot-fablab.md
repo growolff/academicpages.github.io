@@ -13,5 +13,5 @@ Durante el 2018 desarrollé el curso de Introducción al IOT (Internet Of Things
 El objetivo principal del curso es entender lo que significa IoT, la historia del concepto, sus desafíos y principales aplicaciones. El taller cuenta con dos sesiones, la primera  es teórica y se centra en el concepto e historia y la segunda práctica, en donde los participantes tienen que resolver un desafío de integración relacionado con IoT.
 
 ### Desafío
-Utilizando un dispositivo NODEMCU, un sensor de CO2, y las plataformas [Adafruit IO](io.adafruit.com) e [IFTTT](ifttt.com) deben generar una alarma que avise, mediante algún servicio de mensajería instantanea (messenger, twitter, etc), cuando un sensor detecta un límite de concentración de CO2 definido por el usuario.
 
+Utilizando un dispositivo NODEMCU, un sensor de CO2, y las plataformas [Adafruit IO](io.adafruit.com) e [IFTTT](ifttt.com) deben generar una alarma que avise, mediante algún servicio de mensajería instantanea (messenger, twitter, etc), cuando un sensor detecta un límite de concentración de CO2 definido por el usuario.
